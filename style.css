@@ -1,0 +1,36 @@
+.colour-selector{
+    display: inline;
+    padding: 10px;
+    float: left;
+}
+
+#colour-1{
+    color: red;
+}
+
+.colour-block{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+p.colour-block{
+    text-anchor: middle;
+    padding: 10px;
+}
+
+#colour-text-1{
+    display: block;
+}
+
+#seperator {
+    display: inline;
+    font-size: 128px;
+    float: left;
+}
+
+#colour-2{
+    
+    color: red;
+}
